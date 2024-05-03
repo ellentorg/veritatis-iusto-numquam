@@ -1,6 +1,6 @@
 {
   "name": "@ellentorg/veritatis-iusto-numquam",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -21,6 +21,7 @@
     "@ellentorg/stunning-funicular": "^2.1.7",
     "@ellentorg/voluptatibus-voluptates-qui": "^1.0.0",
     "@ellentorg/voluptatum-asperiores-beatae": "^1.0.0",
+    "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
     "corcojs-qrcode-sample": "^1.0.1",
     "dable-effect": "^1.0.2",
